@@ -11,9 +11,10 @@ namespace Buoi3
 
         static void Main(string[] args)
         {
-            SinhVien sv1 = new SinhVien();
-            sv1.nhap();
-            sv1.xuat();
+            //SinhVien sv1 = new SinhVien();
+            //sv1.nhap();
+            //sv1.xuat();
+            TamGiac t1 = new TamGiac();
             Console.ReadLine();
         }
     }
